@@ -9,4 +9,5 @@ mysql:5.7
 wurstmeister/zookeeper:latest
 wurstmeister/kafka:latest
 bitnami/openresty:1.25.3-2
+grafana/grafana-oss:10.3.0
 
