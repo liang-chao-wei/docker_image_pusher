@@ -11,4 +11,5 @@ wurstmeister/kafka:latest
 bitnami/openresty:1.25.3-2
 grafana/grafana-oss:10.3.0
 docker.io/redis:6.2.19-alpine
+ossrs/srs:5.0.170-gb28181
 
