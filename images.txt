@@ -14,4 +14,5 @@ docker.io/redis:6.2.19-alpine
 ossrs/srs:5.0.170
 ossrs/srs:5.0.213
 centos:centos7
+xuxueli/xxl-job-admin:3.2.0
 
