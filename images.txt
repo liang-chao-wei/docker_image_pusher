@@ -16,5 +16,5 @@ ossrs/srs:5.0.213
 centos:centos7
 xuxueli/xxl-job-admin:3.2.0
 openresty/openresty:1.27.1.2-4-alpine-fat
-openjdk:17-jre
+openjdk:17-ea-17-jdk-slim
 
